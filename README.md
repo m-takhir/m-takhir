@@ -8,4 +8,4 @@
 ### Tools
 
 - **Backend**: Python, Flask, FastAPI, Webhooks
-- ** AI **: OpenAI API, STT, TTS, AI-agent
+- **AI**: OpenAI API, STT, TTS, AI-agent
