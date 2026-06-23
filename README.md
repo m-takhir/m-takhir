@@ -1,7 +1,7 @@
 ## Привет, меня зовут Тахир и я занимаюсь автоматизацией бизнес-процессов.
 
-- Инструменты - n8n, Make, AI-агенты
-- Stack - Python, FastAPI, PostgreSQL, API интеграции
+- **Инструменты** - n8n, Make, AI-агенты
+- **Stack** - Python, FastAPI, PostgreSQL, API интеграции
 
 ---
 
