@@ -1,8 +1,5 @@
 ## Привет, меня зовут Тахир и я занимаюсь автоматизацией бизнес-процессов.
 
-<!--
-**m-takhir/m-takhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - Инструменты - n8n, Make, AI-агенты
 - Stack - Python, FastAPI, PostgreSQL, API интеграции
 
@@ -12,7 +9,3 @@
 
 - **Backend**: Python, Flask, FastAPI, Webhooks
 - ** AI **: OpenAI API, STT, TTS, AI-agent
-
-
-
--->
