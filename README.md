@@ -1,4 +1,4 @@
-## Привет, меня зовут Тахир и я занимаюсь автоматизацией безнес-процессов.
+## Привет, меня зовут Тахир и я занимаюсь автоматизацией бизнес-процессов.
 
 <!--
 **m-takhir/m-takhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
